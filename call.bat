@@ -1,1 +1,1 @@
-py helloworld.py
+ECHO Hello World
